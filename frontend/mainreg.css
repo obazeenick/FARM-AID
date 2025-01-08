@@ -1,0 +1,110 @@
+body {
+    background-image: url(logo\ Login2.jpg);
+    background-repeat: no-repeat;
+    background-size: 300%;
+}
+
+.container-flex.reg-container{
+    width: 100%;
+}
+/* registration page */
+
+h2.reg-header {
+    margin-top: 10%;
+    
+    display: block;
+    padding: 1rem 2rem 2rem;
+    width: 100%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.card.reg-card {
+    padding: 40x 0px 20px;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+.names {
+    padding: 1%;
+    width: 65%;
+    display: block;
+    margin: auto;
+    font-size: 10px;
+}
+
+.email {
+    padding: 1%;
+    width: 65%;
+    display: block;
+    margin: auto;
+    font-size: 10px;
+}
+
+.PhoneNumber {
+    padding: 1%;
+    width: 65%;
+    display: block;
+    margin: auto;
+    font-size: 10px;
+}
+
+.CountryState{
+    padding: 1%;
+    width: 65%;
+    display: block;
+    margin: auto;
+    font-size: 10px;
+}
+
+
+.farm_type{
+    padding: 1%;
+    width: 65%;
+    display: block;
+    margin: auto;
+    font-size: 10px;
+}
+
+.PasswordSet{
+    padding: 1%;
+    width: 65%;
+    display: block;
+    margin: auto;
+    font-size: 10px;
+}
+
+.PasswordSet1{
+    padding: 1%;
+    width: 65%;
+    display: block;
+    margin: auto;
+    font-size: 10px;
+    padding-bottom: 10%;
+}
+
+
+
+button.reg-btn {
+    
+    margin: auto;
+    width: 70%;
+    display: block;
+    
+    font-size: 10px;
+    color: #ffffff;
+    background-color: green;
+}
+
+.return{
+    
+    width: 65%;
+    display: block;
+    margin: auto;
+    font-size: 10px;
+    padding-bottom: 5%;
+   
+}

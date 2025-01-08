@@ -1,0 +1,47 @@
+body {
+    background-image: url(logo\ Login2.jpg);
+    background-repeat: no-repeat;
+    background-size: 320%;
+}
+
+/* Login page */
+
+.container.signin-container {
+    margin-top: 10%;
+}
+
+.card.signin-card {
+    padding: 40x 0px 20px;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+h2.signin-header {
+    margin: auto;
+    display: block;
+    padding: 0 2rem 2rem;
+    width: 100%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+form.sigin-form {
+    max-width: 350px;
+    margin: auto;
+}
+
+.form-group-password {
+    max-width: 350px;
+    margin-top: .5rem;
+}
+
+button.signin-btn {
+    margin-top: 1rem;
+    color: #ffffff;
+    background-color: green;
+    width: 100%;
+}
+

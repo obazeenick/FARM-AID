@@ -1,0 +1,13 @@
+node_modules/
+.env
+uploads/*
+!uploads/.gitkeep
+npm-debug.log*
+*.o
+*.a
+*.out
+.DS_Store
+thumbs.db  
+secret.txt
+
+
